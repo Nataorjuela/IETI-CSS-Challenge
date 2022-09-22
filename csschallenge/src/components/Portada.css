@@ -1,0 +1,22 @@
+
+.Fondo{
+    width: 1510px;
+    height: 650px;
+    background-color:darkgray;
+}
+
+.image1{
+    position:absolute;
+    top:50px;
+    height:500px;
+    width:500px;
+    left:50px;
+}
+
+.frase{
+    position:absolute;
+    top:150px;
+    left:800px;
+    font-size:100px;
+   
+}
