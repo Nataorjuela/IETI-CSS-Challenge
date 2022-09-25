@@ -9,4 +9,4 @@
 
 #PRUEBA
 
-![image](https://github.com/Nataorjuela/IETI-CSS-Challenge/blob/master/csschallenge/src/Images/prueba.jpg))
+![image](https://github.com/Nataorjuela/IETI-CSS-Challenge/blob/master/csschallenge/src/Images/prueba.png)
