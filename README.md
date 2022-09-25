@@ -7,6 +7,6 @@
 ![image](https://github.com/Nataorjuela/IETI-CSS-Challenge/blob/master/csschallenge/src/Images/ieti.jpg)
 
 
-#PRUEBA
+# PRUEBA
 
 ![image](https://github.com/Nataorjuela/IETI-CSS-Challenge/blob/master/csschallenge/src/Images/prueba.png)
